@@ -1,0 +1,9 @@
+Rule:
+$\displaystyle \max_{s} F_0 > 0.9$ \textit{over any of the windows: $s_{-1}, s_{-4}$}
+
+Stats:
+count     53760
+unique        2
+top         0.0
+freq      29331
+Name: y, dtype: object

@@ -1,0 +1,13 @@
+Rule:
+balanced - C at t-4
+
+Stats:
+count    1000.00000
+mean        0.50000
+std         0.50025
+min         0.00000
+25%         0.00000
+50%         0.50000
+75%         1.00000
+max         1.00000
+Name: y, dtype: float64

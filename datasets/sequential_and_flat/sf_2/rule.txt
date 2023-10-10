@@ -1,0 +1,9 @@
+Rule:
+$\exists s$ \textit{of size }$3$ \textit{in seq such that} $\displaystyle \sum_{s} F_5 > 2$
+
+Stats:
+count     53801
+unique        2
+top         1.0
+freq      32245
+Name: y, dtype: object

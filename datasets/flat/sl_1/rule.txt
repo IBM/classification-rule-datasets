@@ -1,0 +1,13 @@
+Rule:
+F0 or (F3 and F6)
+
+Stats:
+count    10000.00000
+mean         0.63480
+std          0.48151
+min          0.00000
+25%          0.00000
+50%          1.00000
+75%          1.00000
+max          1.00000
+Name: class, dtype: float64

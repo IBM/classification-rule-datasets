@@ -1,0 +1,13 @@
+Rule:
+F0 xor F4 xor F8
+
+Stats:
+count    10000.000000
+mean         0.498600
+std          0.500023
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          1.000000
+max          1.000000
+Name: class, dtype: float64

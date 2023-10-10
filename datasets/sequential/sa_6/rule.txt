@@ -1,0 +1,9 @@
+Rule:
+$\forall s$ \textit{of size }$3$ \textit{in seq,} $\displaystyle \min_{s} F_0 > 0.05$
+
+Stats:
+count     54202
+unique        2
+top         1.0
+freq      33032
+Name: y, dtype: object

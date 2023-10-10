@@ -1,0 +1,9 @@
+Rule:
+$F_0$ at $\texttt{t}-5 > 0.7$ $\vee$ $F_1$ at $\texttt{t}-2 > 0.7$
+
+Stats:
+count     65962
+unique        2
+top         1.0
+freq      34138
+Name: y, dtype: object

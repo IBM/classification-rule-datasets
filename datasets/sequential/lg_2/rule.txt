@@ -1,0 +1,13 @@
+Rule:
+A at t-6 AND C at t-4
+
+Stats:
+count    1000.000000
+mean        0.015000
+std         0.121613
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max         1.000000
+Name: y, dtype: float64

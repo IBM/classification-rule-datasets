@@ -1,0 +1,9 @@
+Rule:
+$\exists s$ \textit{of size }$3$ \textit{in seq such that} $\displaystyle \prod_{s} F_5 > 0.25$
+
+Stats:
+count     54351
+unique        2
+top         1.0
+freq      31725
+Name: y, dtype: object

@@ -1,0 +1,9 @@
+Rule:
+$FF_1$ > 0.5$ $\\wedge$ $\\exists s$ \textit{of size }$3$ \textit{in seq such that} $\displaystyle \sum_{s} F_5 > 2$
+
+Stats:
+count     53721
+unique        2
+top         0.0
+freq      37790
+Name: y, dtype: object

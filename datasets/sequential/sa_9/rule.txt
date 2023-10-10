@@ -1,0 +1,15 @@
+Rule:
+\multirow{3}{*}{
+	\begin{tabular}{lll}
+\multicolumn{3}{l}{($F_1$ at $\texttt{t}-1 > 0.5$ $\wedge$ $F_8$ at $\texttt{t}-1 > 0.6$)}\\
+$\vee$ & \multicolumn{2}{l}{($\displaystyle \sum_{s} F_4 > 1.5$ \textit{over window: $s_{-1}$}}\\
+& & $\wedge$ $\exists s$ \textit{of size }$3$ \textit{in seq such that} $\displaystyle \min_{s} F_2 > 0.2$)
+	\end{tabular}}
+
+
+Stats:
+count     54105
+unique        2
+top         1.0
+freq      30974
+Name: y, dtype: object
